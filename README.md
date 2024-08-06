@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm a 19 yo developer/researcher from the University of Waterloo, studying in the Software Engineering class of 2028.
+
+I'm currently working on using attention-based models to trade stocks @ WatStreet, improving perception for autonomous race cars @ MIT-PITT-RW, and tinker on the side
 <!--
 **KrishM123/KrishM123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
