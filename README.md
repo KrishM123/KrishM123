@@ -1,19 +1,11 @@
 ### Hi there 👋
 
-I'm a 19 yo developer/researcher from the University of Waterloo, studying in the Software Engineering class of 2028.
+#### About Me
+I'm a 19-year-old developer and researcher from the University of Waterloo, studying in the Software Engineering class of 2028.
 
-I'm currently working on using attention-based models to trade stocks @ WatStreet, improving perception for autonomous race cars @ MIT-PITT-RW, and tinker on the side
-<!--
-**KrishM123/KrishM123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### What I'm Working On
+- **Financial Technology**: Utilizing attention-based models to trade stocks at **WatStreet**.
+- **Autonomous Vehicles**: Enhancing perception for autonomous race cars at **MIT-PITT-RW**.
+- **Personal Projects**: Continuously exploring new ideas and tinkering on the side.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel free to connect or follow my work as I delve into these exciting projects!
